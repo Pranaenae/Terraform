@@ -38,3 +38,6 @@ Run terraform plan.
 Run terraform apply.
 ![image](https://user-images.githubusercontent.com/80820244/236618565-3489d31d-6c43-4afe-a251-2be660781bf4.png)
 
+Check AWS.
+![image](https://user-images.githubusercontent.com/80820244/236618678-6e4bc293-e1e8-4b3b-9452-2ba06920b7f0.png)
+
