@@ -1,0 +1,4 @@
+# Destroy a resource.
+
+Run terraform destroy.
+
