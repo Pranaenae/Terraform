@@ -3,7 +3,7 @@
 Create an instance "HelloWorld".
 Setup the provider and the instance attributes.
 
-```terraform
+```hcf
 terraform {
   required_providers {
     aws = {
