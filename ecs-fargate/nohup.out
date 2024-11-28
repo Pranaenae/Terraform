@@ -1,0 +1,90 @@
+2024-11-19 04:41:59 Loading updated app package /home/pranaygurung/.config/obsidian/obsidian-1.7.6.asar
+2024-11-19 04:41:59 Checking for update using Github
+2024-11-19 04:42:00 Success.
+2024-11-19 04:42:00 Latest version is 1.7.7
+2024-11-19 04:42:00 Downloading update from https://github.com/obsidianmd/obsidian-releases/releases/download/v1.7.7/obsidian-1.7.7.asar.gz
+2024-11-19 04:42:06 Verifying hash & signature. Size= 8000009
+2024-11-19 04:42:06 Saving file
+2024-11-19 04:42:06 Update complete.
+2024-11-19 05:41:59 Checking for update using Github
+2024-11-19 05:41:59 Success.
+2024-11-19 05:41:59 Latest version is 1.7.7
+2024-11-19 05:41:59 An update is already downloaded.
+2024-11-19 06:41:59 Checking for update using Github
+2024-11-19 06:42:00 Success.
+2024-11-19 06:42:00 Latest version is 1.7.7
+2024-11-19 06:42:00 An update is already downloaded.
+[14054:1119/124653.885318:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[14054:1119/124654.368039:ERROR:network_service_instance_impl.cc(600)] Network service crashed, restarting service.
+[14054:1119/124654.454113:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[14054:1119/124654.744122:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+2024-11-19 09:06:27 Loading updated app package /home/pranaygurung/.config/obsidian/obsidian-1.7.7.asar
+2024-11-19 09:06:27 Checking for update using Github
+2024-11-19 09:06:28 Success.
+2024-11-19 09:06:28 Latest version is 1.7.7
+2024-11-19 09:06:28 App is up to date.
+2024-11-19 11:11:21 Checking for update using Github
+2024-11-19 11:11:21 Success.
+2024-11-19 11:11:21 Latest version is 1.7.7
+2024-11-19 11:11:21 App is up to date.
+2024-11-19 12:11:21 Checking for update using Github
+2024-11-19 12:11:21 Success.
+2024-11-19 12:11:21 Latest version is 1.7.7
+2024-11-19 12:11:21 App is up to date.
+2024-11-22 05:33:36 Loading updated app package /home/pranaygurung/.config/obsidian/obsidian-1.7.7.asar
+2024-11-22 05:33:37 Checking for update using Github
+2024-11-22 05:33:37 Success.
+2024-11-22 05:33:37 Latest version is 1.7.7
+2024-11-22 05:33:37 App is up to date.
+[139476:1122/112117.551824:ERROR:atom_cache.cc(229)] Add chromium/from-privileged to kAtomsToCache
+2024-11-22 06:33:36 Checking for update using Github
+2024-11-22 06:33:36 Success.
+2024-11-22 06:33:36 Latest version is 1.7.7
+2024-11-22 06:33:36 App is up to date.
+2024-11-22 07:33:36 Checking for update using Github
+2024-11-22 07:33:37 Success.
+2024-11-22 07:33:37 Latest version is 1.7.7
+2024-11-22 07:33:37 App is up to date.
+2024-11-22 09:23:21 Checking for update using Github
+[139476:1122/150821.112258:ERROR:network_service_instance_impl.cc(600)] Network service crashed, restarting service.
+[139476:1122/150821.127589:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[139476:1122/150821.131517:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.132197:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.132667:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.133233:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.133710:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.134288:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.134888:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.135346:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.135816:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[139476:1122/150821.135837:FATAL:gpu_data_manager_impl_private.cc(449)] GPU process isn't usable. Goodbye.
+2024-11-25 05:18:41 Loading updated app package /home/pranaygurung/.config/obsidian/obsidian-1.7.7.asar
+2024-11-25 05:18:41 Checking for update using Github
+2024-11-25 05:18:42 Success.
+2024-11-25 05:18:42 Latest version is 1.7.7
+2024-11-25 05:18:42 App is up to date.
+2024-11-25 07:23:38 Checking for update using Github
+2024-11-25 07:23:39 Success.
+2024-11-25 07:23:39 Latest version is 1.7.7
+2024-11-25 07:23:39 App is up to date.
+2024-11-25 08:23:38 Checking for update using Github
+2024-11-25 08:23:39 Success.
+2024-11-25 08:23:39 Latest version is 1.7.7
+2024-11-25 08:23:39 App is up to date.
+2024-11-25 09:23:38 Checking for update using Github
+2024-11-25 09:23:38 Success.
+2024-11-25 09:23:38 Latest version is 1.7.7
+2024-11-25 09:23:38 App is up to date.
+2024-11-25 10:23:38 Checking for update using Github
+2024-11-25 10:23:39 Success.
+2024-11-25 10:23:39 Latest version is 1.7.7
+2024-11-25 10:23:39 App is up to date.
+2024-11-25 11:23:38 Checking for update using Github
+2024-11-25 11:23:39 Success.
+2024-11-25 11:23:39 Latest version is 1.7.7
+2024-11-25 11:23:39 App is up to date.
+2024-11-25 12:50:18 Checking for update using Github
+2024-11-25 12:50:19 Success.
+2024-11-25 12:50:19 Latest version is 1.7.7
+2024-11-25 12:50:19 App is up to date.
+[106191:1125/203850.740510:ERROR:connection.cc(61)] X connection error received.
